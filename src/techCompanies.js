@@ -405,13 +405,6 @@ export const techCompanies = [
         industry: "Fintech",
         website: "https://www.interswitchgroup.com",
       },
-      {
-        companyName: "iHub",
-        companyTwitterHandle: "iHub",
-        foundersTwitterHandle: ["bosuntijani"],
-        industry: "Open community workspace",
-        website: "https://ihub.co.ke",
-      },
     ],
   },
   {
@@ -532,6 +525,16 @@ export const techCompanies = [
         industry: "Tech Agency",
         website: "",
       },
+      { companyName: "Lazerpay Inc",
+
+        companyTwitterHandle: "@lazerpay",
+
+        foundersTwitterHandle: ["@njokuscript"],
+
+        industry: "FinTech",
+
+        website: "https://www.lazerpay.finance",
+       },
     ],
   },
   {
@@ -691,13 +694,6 @@ export const techCompanies = [
         foundersTwitterHandle: ["AgostaL"],
         industry: "Payment infrastructure",
         website: "http://pesapal.com",
-      },
-      {
-        companyName: "patricia",
-        companyTwitterHandle: "patriciaswitch",
-        foundersTwitterHandle: ["fejizzy"],
-        industry: "E-commerce company",
-        website: "http://www.mypatricia.com",
       }
     ],
   },
